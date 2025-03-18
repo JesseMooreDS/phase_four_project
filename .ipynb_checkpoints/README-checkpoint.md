@@ -2,7 +2,7 @@
 
 ## Jesse Moore
 
-## [LinkedIn](https://www.linkedin.com/in/jesse-moore-datascience/) | (Github)[https://github.com/JesseMooreDS] 
+## [LinkedIn](https://www.linkedin.com/in/jesse-moore-datascience/) | [Github]([https://github.com/JesseMooreDS)
 
 ![image](images/picking_movie.jpeg)
 
